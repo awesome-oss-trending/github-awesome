@@ -1,8 +1,8 @@
 {
-  "Python": 160,
-  "TypeScript": 100,
+  "Python": 164,
+  "TypeScript": 101,
+  "JavaScript": 36,
   "Rust": 33,
-  "JavaScript": 33,
   "Go": 21,
   "Jupyter Notebook": 15,
   "Shell": 13,
