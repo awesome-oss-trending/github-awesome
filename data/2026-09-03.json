@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-03",
+  "scraped_at": "2026-09-03T10:24:25.177Z",
+  "count": 19,
+  "repos": [
+    {
+      "owner": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "total_stars": 24645,
+      "stars_today": 14,
+      "url": "https://github.com/fmtlib/fmt",
+      "clone_url": "https://github.com/fmtlib/fmt.git"
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "total_stars": 30494,
+      "stars_today": 343,
+      "url": "https://github.com/google-research/timesfm",
+      "clone_url": "https://github.com/google-research/timesfm.git"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "total_stars": 122635,
+      "stars_today": 1354,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "clone_url": "https://github.com/DietrichGebert/ponytail.git"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "total_stars": 15545,
+      "stars_today": 832,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "clone_url": "https://github.com/debpalash/VoiceStudio.git"
+    },
+    {
+      "owner": "sngyai",
+      "name": "Sequoia-X",
+      "full_name": "sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "language": "Python",
+      "total_stars": 6442,
+      "stars_today": 63,
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "clone_url": "https://github.com/sngyai/Sequoia-X.git"
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "total_stars": 50791,
+      "stars_today": 148,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "clone_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 240455,
+      "stars_today": 533,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    },
+    {
+      "owner": "superlinked",
+      "name": "sie",
+      "full_name": "superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "language": "Python",
+      "total_stars": 3175,
+      "stars_today": 60,
+      "url": "https://github.com/superlinked/sie",
+      "clone_url": "https://github.com/superlinked/sie.git"
+    },
+    {
+      "owner": "pacifio",
+      "name": "atlas",
+      "full_name": "pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "total_stars": 3078,
+      "stars_today": 888,
+      "url": "https://github.com/pacifio/atlas",
+      "clone_url": "https://github.com/pacifio/atlas.git"
+    },
+    {
+      "owner": "zyronon",
+      "name": "TypeWords",
+      "full_name": "zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "language": "Vue",
+      "total_stars": 9549,
+      "stars_today": 21,
+      "url": "https://github.com/zyronon/TypeWords",
+      "clone_url": "https://github.com/zyronon/TypeWords.git"
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "total_stars": 45813,
+      "stars_today": 799,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "clone_url": "https://github.com/Imbad0202/academic-research-skills.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 246665,
+      "stars_today": 516,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "total_stars": 71987,
+      "stars_today": 18,
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "clone_url": "https://github.com/protocolbuffers/protobuf.git"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "portless",
+      "full_name": "vercel-labs/portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "language": "TypeScript",
+      "total_stars": 11984,
+      "stars_today": 73,
+      "url": "https://github.com/vercel-labs/portless",
+      "clone_url": "https://github.com/vercel-labs/portless.git"
+    },
+    {
+      "owner": "blader",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "total_stars": 40939,
+      "stars_today": 374,
+      "url": "https://github.com/blader/humanizer",
+      "clone_url": "https://github.com/blader/humanizer.git"
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "total_stars": 102855,
+      "stars_today": 238,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "clone_url": "https://github.com/JuliusBrussee/caveman.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "total_stars": 245920,
+      "stars_today": 1166,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "Gitlawb",
+      "name": "openclaude",
+      "full_name": "Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "total_stars": 32165,
+      "stars_today": 775,
+      "url": "https://github.com/Gitlawb/openclaude",
+      "clone_url": "https://github.com/Gitlawb/openclaude.git"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "total_stars": 18722,
+      "stars_today": 586,
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "clone_url": "https://github.com/firecrawl/pdf-inspector.git"
+    }
+  ]
+}
