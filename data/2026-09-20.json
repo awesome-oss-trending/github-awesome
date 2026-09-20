@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-20",
+  "scraped_at": "2026-09-20T10:18:23.249Z",
+  "count": 15,
+  "repos": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 17296,
+      "stars_today": 3155,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "total_stars": 24817,
+      "stars_today": 859,
+      "url": "https://github.com/trycua/cua",
+      "clone_url": "https://github.com/trycua/cua.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 97347,
+      "stars_today": 556,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "total_stars": 15778,
+      "stars_today": 402,
+      "url": "https://github.com/coder/coder",
+      "clone_url": "https://github.com/coder/coder.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "total_stars": 146870,
+      "stars_today": 483,
+      "url": "https://github.com/anthropics/claude-code",
+      "clone_url": "https://github.com/anthropics/claude-code.git"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "total_stars": 16401,
+      "stars_today": 472,
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "clone_url": "https://github.com/Open-Dev-Society/OpenStock.git"
+    },
+    {
+      "owner": "higgsfield-ai",
+      "name": "higgsfield",
+      "full_name": "higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "total_stars": 5109,
+      "stars_today": 196,
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "clone_url": "https://github.com/higgsfield-ai/higgsfield.git"
+    },
+    {
+      "owner": "docling-project",
+      "name": "docling",
+      "full_name": "docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "language": "Python",
+      "total_stars": 67347,
+      "stars_today": 129,
+      "url": "https://github.com/docling-project/docling",
+      "clone_url": "https://github.com/docling-project/docling.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "total_stars": 12123,
+      "stars_today": 31,
+      "url": "https://github.com/cloudflare/quiche",
+      "clone_url": "https://github.com/cloudflare/quiche.git"
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "full_name": "asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "total_stars": 5370,
+      "stars_today": 420,
+      "url": "https://github.com/asciimoo/hister",
+      "clone_url": "https://github.com/asciimoo/hister.git"
+    },
+    {
+      "owner": "ruanyf",
+      "name": "weekly",
+      "full_name": "ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": null,
+      "total_stars": 103579,
+      "stars_today": 98,
+      "url": "https://github.com/ruanyf/weekly",
+      "clone_url": "https://github.com/ruanyf/weekly.git"
+    },
+    {
+      "owner": "ZuodaoTech",
+      "name": "everyone-can-use-english",
+      "full_name": "ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "total_stars": 38084,
+      "stars_today": 48,
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "clone_url": "https://github.com/ZuodaoTech/everyone-can-use-english.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "total_stars": 25231,
+      "stars_today": 281,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "clone_url": "https://github.com/anthropics/knowledge-work-plugins.git"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "language": "Python",
+      "total_stars": 11788,
+      "stars_today": 234,
+      "url": "https://github.com/cactus-compute/needle",
+      "clone_url": "https://github.com/cactus-compute/needle.git"
+    },
+    {
+      "owner": "yynxxxxx",
+      "name": "Codex-X",
+      "full_name": "yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "total_stars": 3530,
+      "stars_today": 32,
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "clone_url": "https://github.com/yynxxxxx/Codex-X.git"
+    }
+  ]
+}
