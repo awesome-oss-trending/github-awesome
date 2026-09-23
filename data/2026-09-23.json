@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-23",
+  "scraped_at": "2026-09-23T10:29:05.130Z",
+  "count": 8,
+  "repos": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "description": null,
+      "language": "Python",
+      "total_stars": 36661,
+      "stars_today": 438,
+      "url": "https://github.com/anthropics/financial-services",
+      "clone_url": "https://github.com/anthropics/financial-services.git"
+    },
+    {
+      "owner": "agent-substrate",
+      "name": "substrate",
+      "full_name": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "total_stars": 3210,
+      "stars_today": 245,
+      "url": "https://github.com/agent-substrate/substrate",
+      "clone_url": "https://github.com/agent-substrate/substrate.git"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "total_stars": 16011,
+      "stars_today": 255,
+      "url": "https://github.com/dream-num/univer",
+      "clone_url": "https://github.com/dream-num/univer.git"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "total_stars": 31289,
+      "stars_today": 64,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "clone_url": "https://github.com/davila7/claude-code-templates.git"
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "full_name": "google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "total_stars": 8224,
+      "stars_today": 2305,
+      "url": "https://github.com/google/ax",
+      "clone_url": "https://github.com/google/ax.git"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "total_stars": 14303,
+      "stars_today": 441,
+      "url": "https://github.com/mvt-project/mvt",
+      "clone_url": "https://github.com/mvt-project/mvt.git"
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "full_name": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "total_stars": 2448,
+      "stars_today": 230,
+      "url": "https://github.com/superdesigndev/treg",
+      "clone_url": "https://github.com/superdesigndev/treg.git"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "total_stars": 26198,
+      "stars_today": 191,
+      "url": "https://github.com/browser-use/video-use",
+      "clone_url": "https://github.com/browser-use/video-use.git"
+    }
+  ]
+}
